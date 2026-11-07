@@ -1,6 +1,8 @@
 /.angular/cache
 # NPM
 node_modules
+coverage/
+out-tsc/
 npm-debug.log
 sandboxes.ts
 
